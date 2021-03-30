@@ -44,6 +44,6 @@ dependencies {
 
     annotationProcessor 'com.alibaba:arouter-compiler:1.2.1'
     implementation 'com.github.bluetoblack9:ComponentCommon:V1.0.1'
-    implementation 'com.github.bluetoblack9.ComponentNews:news:V1.0.3'
-    implementation 'com.github.bluetoblack9:ComponentHome:V1.0.0'
+    implementation 'com.github.bluetoblack9.ComponentNews:news:V1.0.5'
+    implementation 'com.github.bluetoblack9:ComponentHome:V1.0.1'
 }
